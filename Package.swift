@@ -13,6 +13,6 @@ let package = Package(
         )
     ],
     targets: [
-       .binaryTarget(name: "P2PShared", url: "https://github.com/thredup/P2PShared/releases/download/0.1.2/P2PShared-0.1.2.xcframework.zip", checksum: "f40004021eb3e0af8d4e6eb307e9ee52d4a2de4ded4e23d9305eb52c76833b95")
+       .binaryTarget(name: "P2PShared", url: "https://github.com/thredup/P2PShared/releases/download/0.1.2/P2PShared-0.1.2.xcframework.zip", checksum: "524e20117d1e1053eb017b7b34c635c505af808a4a589fca4ab76af59b81b54e")
     ]
 )
